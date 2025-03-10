@@ -9,3 +9,6 @@ print(msg)
 # %%
 import pandas as pd
 # %%
+print('hello')
+
+# %%
